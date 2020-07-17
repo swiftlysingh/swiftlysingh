@@ -5,7 +5,11 @@ I am **Pushpinder Pal Singh**, **a computer engineering sophomore at Netaji Subh
 - 👯 I’m looking to collaborate on **iOS Apps**
 - 🤔 I’m looking for help with finding more oppurtunities
 - 💬 Ask me about **iOS Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pushpinderpalsingh/)
 #
 
-<img src="https://github-readme-stats.vercel.app/api?username=pushpinderpalsingh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=pushpinderpalsingh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="100%">
+
+##
+### Connect with me:
+
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/pushpinderpal_)[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pushpinderpalsingh/) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="3.5%"/>](https://medium.com/@pushpinderpalsingh)
