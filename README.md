@@ -12,4 +12,4 @@ I am **Pushpinder Pal Singh**, **a computer engineering sophomore at Netaji Subh
 ##
 ### Connect with me:
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/pushpinderpal_)[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pushpinderpalsingh/) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="3.5%"/>](https://medium.com/@pushpinderpalsingh)[<img src="https://img.icons8.com/ios-filled/50/000000/blogger.png" width="3.5%"/>](https://technicalnow.in/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/pushpinderpal_)[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pushpinderpalsingh/) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="3.5%"/>](https://medium.com/@pushpinderpalsingh)[<img src="https://img.icons8.com/fluent/48/000000/blog.png" width="3.5%"/>](https://technicalnow.in/)
