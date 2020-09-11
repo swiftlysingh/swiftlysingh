@@ -6,7 +6,7 @@ I am **Pushpinder Pal Singh**, **a computer engineering sophomore at Netaji Subh
 - 💬  Ask me about **iOS Development**
 #
 
-<img src="https://github-readme-stats.vercel.app/api?username=pushpinderpalsingh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=pushpinderpalsingh&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
 ##
 ### Connect with me:
