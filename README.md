@@ -18,5 +18,5 @@ I am **Pushpinder Pal Singh, a pre-final year computer engineering (B.E.) studen
 
 ### My Portfolio
 
-[![Photography](https://img.shields.io/badge/Photography-Shots-black)](https://shots.pushpinderpalsingh.com/)
-[![Techincal](https://img.shields.io/badge/Techincal-Coming%20Soon-blue)](https://pushpinderpalsingh.com/)
+[![Photography](https://img.shields.io/badge/Photography-Shots-black?style=for-the-badge)](https://shots.pushpinderpalsingh.com/)
+[![Techincal](https://img.shields.io/badge/Techincal-Coming%20Soon-orange?style=for-the-badge)](https://pushpinderpalsingh.com/)
