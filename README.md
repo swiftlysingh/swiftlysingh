@@ -12,9 +12,9 @@ I am **Pushpinder Pal Singh** , a pre-final year computer engineering student at
 ### Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/pushpinderpal_)
-[![Email](https://img.shields.io/badge/Email-black.svg?style=for-the-badge&logo=email)](mailto:pushpinderpal19@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yellow.svg?style=for-the-badge&logo=email)](mailto:pushpinderpal19@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpinderpalsingh/)
-[![Medium](https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@pushpinderpalsingh)
+[![Medium](https://img.shields.io/badge/Medium-grey.svg?style=for-the-badge&logo=medium)](https://medium.com/@pushpinderpalsingh)
 
 ### My Portfolio
 
