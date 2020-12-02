@@ -1,4 +1,4 @@
-I am **Pushpinder Pal Singh, a pre-final year computer engineering (B.E.) student at the Netaji Subhas University of Technology, New Delhi.** I am expected to graduate in 2022. I am an iOS developer and have been developing apps for more than 12 months now. **I love contributing to Open Source.** My app SpaceDash, which is on the App Store, and is completely open-source on Github. We are adding more features are being added every week, you can see my app on App Store and Github by searching SpaceDash. Apart from iOS I love playing with computers and servers. I also have my own homelab running several services for me and my family. **I find networking, dev ops and cyber security extremely fun and fulfilling.**
+I am **Pushpinder Pal Singh** , a pre-final year computer engineering student at the **Netaji Subhas University of Technology, New Delhi**. I am an **iOS developer** with experience in creating apps in AR amongst other things.
 #
 - 🔭  I’m currently working on **SpaceDash** 
 - 🌱  I’m currently learning **SwiftUI**
