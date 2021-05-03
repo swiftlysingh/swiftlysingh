@@ -20,5 +20,5 @@ I am **Pushpinder Pal Singh** , a pre-final year computer engineering student at
 ### My Portfolio
 
 [![Techincal](https://img.shields.io/badge/Techincal-Portfolio-orange?style=for-the-badge)](https://pushpinderpalsingh.com/)
-[![Photography](https://img.shields.io/badge/Photography-Shots-black?style=for-the-badge)](https://shots.pushpinderpalsingh.com/)
+[![Blog](https://img.shields.io/badge/Blog-SwiftlySingh-black?style=for-the-badge)](https://swiftlysingh.com/)
 
