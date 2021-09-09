@@ -1,4 +1,4 @@
-I am **Pushpinder Pal Singh** , a pre-final year computer engineering student at the **Netaji Subhas University of Technology, New Delhi**. I am an **iOS developer** who is into automating stuff with **Python and Raspberry Pis.**
+I am **Pushpinder Pal Singh** , a final year computer engineering student at the **Netaji Subhas University of Technology, New Delhi**. I am an **iOS developer** who is into automating stuff with **Python and Raspberry Pis.**
 #
 - 🔭  I’m currently working on **finding a new App to work on** 
 - 💻  I’m currently contributing to **VLC iOS**
