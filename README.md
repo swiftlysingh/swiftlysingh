@@ -1,8 +1,7 @@
-I am **Pushpinder Pal Singh** , a final year computer engineering student at the **Netaji Subhas University of Technology, New Delhi**. I am an **iOS developer** who is into automating stuff with **Python and Raspberry Pis.**
+Hey! I'm Pushpinder Pal Singh, I try to follow my **curiosity** while **building** and **learning** and trying to find my purpose on this beautiful big blue ball. 🇮🇳
 #
 - 🔭  I’m currently working on **finding a new App to work on** 
-- 💻  I’m currently contributing to **VLC iOS**
-- 🌱  I’m currently learning **Advanced Swift**
+- 🌱  I’m currently learning **Data Structure and Algorithms**
 - 👯  I’m looking to collaborate on **anything exciting**
 - 💬  Ask me about **iOS Development, Automation and Opensource**
 #
@@ -13,11 +12,11 @@ I am **Pushpinder Pal Singh** , a final year computer engineering student at the
 ### Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/swiftlysingh)
-[![Email](https://img.shields.io/badge/Email-yellow.svg?style=for-the-badge&logo=email)](mailto:pushpinderpal19@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yellow.svg?style=for-the-badge&logo=email)](mailto:sayhi@swiftlysingh.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpinderpalsingh/)
 
-### My Portfolio
+### My Websites
 
-[![Techincal](https://img.shields.io/badge/Techincal-Portfolio-orange?style=for-the-badge)](https://pushpinderpalsingh.com/)
-[![Blog](https://img.shields.io/badge/Blog-SwiftlySingh-black?style=for-the-badge)](https://swiftlysingh.com/)
+[![Personal](https://img.shields.io/badge/Personal-Portfolio-orange?style=for-the-badge)](https://swiftlysingh.com/)
+[![Blog](https://img.shields.io/badge/Blog-SwiftlySingh-black?style=for-the-badge)](https://swiftlysingh.substack.com)
 
