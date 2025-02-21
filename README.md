@@ -1,4 +1,4 @@
-Hey! I'm Pushpinder Pal Singh, I try to follow my **curiosity** while **building** and **learning** and trying to find my purpose on this beautiful big blue ball. 🇮🇳
+Hey! I'm Pushpinder Pal Singh, I try to follow my **curiosity** while **building** and **learning** and trying to find my purpose
 #
 - 🔭  I’m currently working on **finding a new App to work on** 
 - 🌱  I’m currently learning **Data Structure and Algorithms**
