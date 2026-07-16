@@ -1,22 +1,27 @@
-## Hey! I'm Pushpinder Pal Singh 👋
+# Hey, I’m Pushpinder 👋
 
-I'm an **iOS Developer** passionate about building intuitive apps and contributing to open source.
+I build software for problems I run into.
 
-### 🚀 Quick Facts
-- 👨‍💻 Currently contributing to the **Swift-Build**.
-- 🔭 Previously at **GOJEK** (iOS & Flutter) and Google Summer of Code.
-- 🌱 Exploring **Data Structures & Algorithms**.
-- 💬 Ask me about **Swift, SwiftUI, iOS Development, Automation, and Open Source**.
+Sometimes, other people find them useful too.
 
-##
+Previously at **Gojek**, where I worked on mobile products and platform systems across iOS and Flutter. I contributed to **VLC** through Google Summer of Code and have merged changes into **Swift Build**.
 
-<img src="https://streak-stats.demolab.com?user=swiftlysingh&theme=dark&hide_border=true&card_width=1008&card_height=100&hide_current_streak=true&hide_longest_streak=true" width="100%">
+## Things I’ve built
 
-##
-### Connect with me:
-[![Portfolio](https://img.shields.io/badge/Personal-swifti.ng-orange?style=for-the-badge)](https://swifti.ng/)
-[![Email](https://img.shields.io/badge/Email-sayhi@swiftlysingh.com-yellow.svg?style=for-the-badge&logo=email)](mailto:sayhi@swiftlysingh.com)
+- [**excalidraw-cli**](https://github.com/swiftlysingh/excalidraw-cli)  
+  A CLI that turns text or JSON into editable Excalidraw diagrams for agents and developer workflows.
 
+- [**Holder**](https://github.com/swiftlysingh/Holder)  
+  A private, offline card vault for iPhone, secured with Keychain and biometric authentication.
 
+- [**HIGs-PDF**](https://github.com/swiftlysingh/HIGs-PDF)  
+  A tool that turns Apple’s Human Interface Guidelines into one searchable, offline PDF.
 
+- [**Coldbrew**](https://github.com/swiftlysingh/coldbrew)  
+  A Homebrew-compatible package manager written in Rust, built around reproducible installs and project lockfiles.
 
+I also write about self-hosting, automation, and the systems I run.
+
+I’m open to full-time and contract software engineering work, especially in developer tools, mobile, and product engineering.
+
+[Website](https://swifti.ng) · [Blog](https://swiftlysingh.com) · [X](https://x.com/swiftlysingh) · [LinkedIn](https://www.linkedin.com/in/pushpinderpalsingh) · [Email](mailto:hi@swifti.ng)
