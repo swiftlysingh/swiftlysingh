@@ -8,7 +8,7 @@ I'm looking for a founding or early iOS role at a Bay Area startup, starting Jan
 
 ## Things I've built
 
-- [**RetroBudget**](https://apps.apple.com/us/app/ai-spend-tracker-retrobudget/id6743363764)
+- [**RetroBudget**](https://retrobudget.app) · [App Store](https://apps.apple.com/us/app/ai-spend-tracker-retrobudget/id6743363764)
   An AI spend tracker for iPhone with paying subscribers. Import a credit-card statement PDF and see your month by category, no bank login.
 
 - [**Holder**](https://github.com/swiftlysingh/Holder) · [App Store](https://apps.apple.com/us/app/offline-card-vault-holder/id6475649492)
